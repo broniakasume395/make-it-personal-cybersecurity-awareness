@@ -1,41 +1,55 @@
-# MAKE IT PERSONAL
-## Your Personal Information Matters
+# Make It Personal – Cybersecurity Awareness Campaign
 
-### Introduction
+### Your Personal Information Matters
 
-Make It Personal is a cybersecurity awareness campaign
-focused on protecting personal information.
+## 1. Project Overview
 
-The campaign aims to educate individuals about the
-importance of keeping their personal information safe
-and recognising cybersecurity threats that may expose
-their confidential information.
+Make It Personal is a cybersecurity awareness campaign focused on protecting personal information. The project aims to educate individuals about common cybersecurity threats and encourage safe online behaviour.
 
-### Campaign Objectives
+Personal information includes names, phone numbers, email addresses, home addresses, passwords and financial details. If this information is not properly protected, it can be stolen, misused or exposed to unauthorised people.
 
-- Raise awareness about protecting personal information.
-- Educate individuals about phishing and social engineering.
-- Explain the dangers of identity theft. 
-- Encourage responsible online behaviour.
-- Promote safe practices when sharing personal information.
+## 2. Project Objectives
 
-### Common Cybersecurity Threats
+The objectives of this campaign are to:
 
-The campaign focuses on:
+- Raise awareness about the importance of protecting personal information.
+- Educate people about common cybersecurity threats.
+- Encourage responsible sharing of information online.
+- Promote good password and account security practices.
+- Explain how to recognise and report suspected cybersecurity incidents.
 
-1. Phishing
-2. Social Engineering
-3. Identity Theft
+## 3. Common Cybersecurity Threats
 
-### Target Audience
+This project focuses on three major threats:
 
-Students, internet users and individuals who use digital
-platforms and share personal information online.
+- **Phishing:** Fake emails or messages designed to trick people into revealing confidential information.
+- **Social Engineering:** Manipulating people into sharing private information or providing unauthorised access.
+- **Identity Theft:** Stealing and using another person's personal information without permission.
 
-### Expected Outcome
+## 4. Security Awareness Tips
 
-To encourage individuals to take responsibility for
-protecting their personal information and making safer
-decisions when using digital platforms.
+- Use strong and unique passwords.
+- Enable multi-factor authentication.
+- Avoid clicking suspicious links.
+- Do not share confidential information with untrusted people.
+- Review your social media privacy settings.
+- Report suspicious online activities.
 
+## 5. Project Resources
 
+The repository contains educational materials to support the campaign:
+
+- `common-cyber-threats.md` – Explains common cybersecurity threats.
+- `security-awareness-tips.md` – Provides practical cybersecurity awareness tips.
+- `protecting-personal-information.md` – Explains how to protect private information.
+- `incident-reporting-guide.md` – Provides guidance on reporting suspected cybersecurity incidents.
+
+## 6. Target Audience
+
+This campaign is intended for students, internet users and individuals who use digital platforms and want to protect their personal information.
+
+## 7. Conclusion
+
+Protecting personal information is everyone's responsibility. By understanding cybersecurity threats and following safe online practices, individuals can reduce the risk of information theft and misuse.
+
+**MAKE IT PERSONAL – Your Personal Information Matters.**
