@@ -1,39 +1,41 @@
+# MAKE IT PERSONAL
+## Your Personal Information Matters
 
-# Cybersecurity Awareness Guide
+### Introduction
 
-## Introduction
+Make It Personal is a cybersecurity awareness campaign
+focused on protecting personal information.
 
-This project is a cybersecurity awareness guide designed
-to educate individuals about common cyber threats and
-ways of protecting personal and sensitive information.
+The campaign aims to educate individuals about the
+importance of keeping their personal information safe
+and recognising cybersecurity threats that may expose
+their confidential information.
 
-## Project Objectives
+### Campaign Objectives
 
-- To explain common cybersecurity threats.
-- To promote safe internet usage.
-- To encourage strong password practices.
-- To educate users about protecting personal information.
+- Raise awareness about protecting personal information.
+- Educate individuals about phishing and social engineering.
+- Explain the dangers of identity theft.
+- Encourage responsible online behaviour.
+- Promote safe practices when sharing personal information.
 
-## Project Contents
+### Common Cybersecurity Threats
 
-1. Common Cybersecurity Threats
-2. Safe Online Practices
-3. Password Security
-4. Basic Cybersecurity Checklist
+The campaign focuses on:
 
-## Target Audience
+1. Phishing
+2. Social Engineering
+3. Identity Theft
 
-Students, individuals and general internet users who want
-to improve their cybersecurity awareness.
+### Target Audience
 
-## Importance of the Project
+Students, internet users and individuals who use digital
+platforms and share personal information online.
 
-Cybersecurity awareness helps individuals recognise
-potential threats, protect sensitive information and
-make safer decisions when using digital platforms.
+### Expected Outcome
 
-## Conclusion
+To encourage individuals to take responsibility for
+protecting their personal information and making safer
+decisions when using digital platforms.
 
-This guide provides basic cybersecurity knowledge and
-practical security recommendations that individuals
-can apply in their daily online activities.
+
