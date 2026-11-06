@@ -15,7 +15,7 @@ their confidential information.
 
 - Raise awareness about protecting personal information.
 - Educate individuals about phishing and social engineering.
-- Explain the dangers of identity theft.
+- Explain the dangers of identity theft. 
 - Encourage responsible online behaviour.
 - Promote safe practices when sharing personal information.
 
