@@ -1,30 +1,41 @@
-# Common Cybersecurity Threats
+# Make It Personal: Common Cybersecurity Threats
 
-Cybersecurity threats are activities that can compromise
-the confidentiality, integrity and availability of information
-and computer systems.
+## Introduction
+
+Personal information can be exposed to different
+cybersecurity threats. Understanding these threats
+helps individuals protect their confidential information.
 
 ## 1. Phishing
-Phishing is a cyberattack where criminals send fake emails,
-messages or websites to trick people into revealing personal
+
+Phishing is a cyberattack where criminals send fake
+emails, messages or links pretending to be legitimate
+organisations to trick people into revealing sensitive
 information such as passwords and banking details.
 
-## 2. Malware
-Malware is malicious software designed to damage computer
-systems, steal information or gain unauthorised access.
+## 2. Social Engineering
 
-Examples include viruses, ransomware and spyware.
+Social engineering involves manipulating or deceiving
+people into sharing confidential information or giving
+criminals access to their accounts and systems.
 
-## 3. Social Engineering
-Social engineering involves manipulating people into
-sharing confidential information or performing actions
-that compromise security.
+## 3. Identity Theft
 
-## 4. Identity Theft
-Identity theft occurs when someone uses another person's
-personal information without permission, usually for
-fraudulent purposes.
+Identity theft occurs when someone steals and uses
+another person's personal information without
+permission, often to commit fraud or other crimes.
 
-## Conclusion
-Understanding common cyber threats helps individuals
-recognise suspicious activities and protect their information.
+## How to Stay Protected
+
+- Verify messages before responding.
+- Never share passwords or confidential details.
+- Avoid suspicious links and attachments.
+- Protect personal information on social media.
+- Report suspicious activities.
+
+## Remember
+
+Think before you share. Your personal information
+deserves protection.
+
+MAKE IT PERSONAL – Your Personal Information Matters.
